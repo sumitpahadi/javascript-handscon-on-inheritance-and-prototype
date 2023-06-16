@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color:yellow;
+}
+
+div{
+    text-align: center;
+}
+
+
+p{
+    font-size: large;
+    padding: 10px;
+
+}
+pre{
+    font-size: 15px;
+}
